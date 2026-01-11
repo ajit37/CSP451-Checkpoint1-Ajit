@@ -1,20 +1,24 @@
-# CSP451 Checkpoint 1
+# CSP451 CheckPoint 1 – Version Control and GitHub
 
 ## Description
-This project demonstrates basic Git version control concepts, repository setup, and GitHub collaboration workflows for CSP451.
+This project demonstrates the use of Git for version control and GitHub for repository hosting and collaboration. It includes basic HTML, CSS, and JavaScript files and showcases commits, branching, pull requests, and documentation best practices for CSP451.
 
-## Installation
-1. Clone the repository
-2. Open the project folder
-3. Open index.html in a browser
-4. Verify thta index.html is working with no bugs.
+## Technologies Used
+- Git
+- GitHub
+- HTML5
+- CSS3
+- JavaScript
 
-## Usage
-Use this project to understand Git commits, branching, and GitHub pull requests.
+## Installation Instructions
+### Prerequisites
+- Git installed
+- Web browser
+- GitHub account
 
-## Contributing
-Contributions should follow standard Git workflows using feature branches and clear commit messages.
+### Setup
+```bash
+git clone https://github.com/ajit37/CSP451-Checkpoint1-Ajit.git
+cd CSP451-Checkpoint1-Ajit
 
-## License
-Ajit Virk @ 2026
 
